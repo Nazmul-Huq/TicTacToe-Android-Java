@@ -11,7 +11,10 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-//https://www.youtube.com/watch?v=CCQTD7ptYqY&t=156s
+
+    // this is a learning project
+    // mainly inspired and copied from below link
+    // https://www.youtube.com/watch?v=CCQTD7ptYqY&t=156s
 
     private TextView playerOneScore, playerTwoScore, playerStatus;
     private Button[] buttons = new Button[9];
